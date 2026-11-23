@@ -165,7 +165,7 @@ T = {
  '>Preguntas frecuentes<': '>Frequently asked questions<', 'Sobre Sebastián Salinas Fuenzalida': 'About Sebastián Salinas Fuenzalida',
  'Conversemos sobre su próximo desafío': 'Let’s talk about your next challenge',
  'aria-label="Cuenta verificada"': 'aria-label="Verified account"',
- '© 2026 Sebastián Salinas Fuenzalida · Abogado · Santiago, Chile · Última actualización: noviembre de 2026': '© 2026 Sebastián Salinas Fuenzalida · Lawyer · Santiago, Chile · Last updated: November 2026',
+ '© 2026 Sebastián Salinas Fuenzalida · Abogado · Santiago, Chile · Última actualización: ': '© 2026 Sebastián Salinas Fuenzalida · Lawyer · Santiago, Chile · Last updated: ',
 }
 
 FAQ_EN = [
@@ -224,6 +224,8 @@ def build():
             x = x.replace(k, T[k])
         return x
     h = tr(head) + ldblock + tr(tail)
+    MES = dict(zip(['enero','febrero','marzo','abril','mayo','junio','julio','agosto','septiembre','octubre','noviembre','diciembre'],['January','February','March','April','May','June','July','August','September','October','November','December']))
+    h = re.sub(r'Last updated: (\d{1,2}) de (\w+) de (\d{4})', lambda m: f'Last updated: {MES[m.group(2)]} {m.group(1)}, {m.group(3)}', h)
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     open(OUT, 'w', encoding='utf-8').write(h)
 
