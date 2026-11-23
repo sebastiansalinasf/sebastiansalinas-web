@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html{scroll-behavior:smooth}
+.eyebrow{font-size:.72rem;font-weight:600;letter-spacing:.25em;text-transform:uppercase}
+summary::-webkit-details-marker{display:none}

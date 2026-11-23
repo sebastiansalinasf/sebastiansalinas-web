@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.sebastiansalinas.cl/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.sebastiansalinas.cl/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sebastiansalinas.cl/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sebastiansalinas.cl/" />
+    <image:image><image:loc>https://www.sebastiansalinas.cl/assets/sebastian-salinas-fuenzalida-abogado.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.sebastiansalinas.cl/assets/sebastian-salinas-fuenzalida-perfil.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.sebastiansalinas.cl/assets/sebastian-salinas-fuenzalida-dunora.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.sebastiansalinas.cl/assets/sebastian-salinas-fuenzalida-contacto.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.sebastiansalinas.cl/assets/sebastian-salinas-sudamericano-star-2019-club-nautico-olivos.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.sebastiansalinas.cl/en/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.sebastiansalinas.cl/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sebastiansalinas.cl/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sebastiansalinas.cl/" />
+    <image:image><image:loc>https://www.sebastiansalinas.cl/assets/sebastian-salinas-fuenzalida-abogado.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.sebastiansalinas.cl/assets/sebastian-salinas-fuenzalida-perfil.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.sebastiansalinas.cl/assets/sebastian-salinas-fuenzalida-dunora.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.sebastiansalinas.cl/assets/sebastian-salinas-fuenzalida-contacto.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.sebastiansalinas.cl/assets/sebastian-salinas-sudamericano-star-2019-club-nautico-olivos.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.sebastiansalinas.cl/llms.txt</loc>
+    <lastmod>2026-11-21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.sebastiansalinas.cl/blog/</loc>
+    <lastmod>2026-11-21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.sebastiansalinas.cl/blog/ia-en-la-empresa-de-la-adopcion-a-la-productividad/</loc>
+    <lastmod>2026-11-21</lastmod>
+  </url>
+</urlset>
